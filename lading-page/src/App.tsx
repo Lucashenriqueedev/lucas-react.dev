@@ -1,7 +1,4 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
+
 import "./App.css";
 
 
@@ -238,7 +235,7 @@ function App() {
       <footer>
         <h3>Técnico em Desenvolvimento de Sistemas</h3>
         <p>SENAI • 2026</p>
-        <p>Aluno: Pedro Henrique Barros Sousa</p>
+        <p>Aluno: Lucas Henrique </p>
       </footer>
     </div>
   );
